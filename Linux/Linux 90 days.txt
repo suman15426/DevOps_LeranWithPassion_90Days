@@ -1,0 +1,44 @@
+ 
+
+📅 90-Day Linux + DevOps Daily Plan (1 Hour/Day)
+Phase 1: Foundations (Days 1–21)
+Goal: Comfort with Linux basics, navigation, permissions, and scripting.
+• 	Day 1–3: File system hierarchy (, , , )
+• 	Day 4–6: File permissions & ownership (, , )
+• 	Day 7–9: Users & groups (, , , )
+• 	Day 10–12: Environment variables & profiles (, )
+• 	Day 13–15: Shell basics (loops, conditionals, functions)
+• 	Day 16–18: Pipelines & redirection (, , , )
+• 	Day 19–21: Mini-project → Write a script to create users, assign groups, and set permissions automatically.
+
+Phase 2: System & Networking (Days 22–42)
+Goal: Manage processes, services, and networking.
+• 	Day 22–24: Process management (, , , )
+• 	Day 25–27: System monitoring (, , , )
+• 	Day 28–30: Service management (, )
+• 	Day 31–33: Networking basics (, , )
+• 	Day 34–36: SSH & remote access (, , )
+• 	Day 37–39: Firewall basics (, )
+• 	Day 40–42: Mini-project → Automate server health check script (CPU, memory, disk, network).
+
+Phase 3: Automation & Text Processing (Days 43–63)
+Goal: Master text manipulation and automation.
+• 	Day 43–45:  deep dive (regex patterns)
+• 	Day 46–48:  basics (field extraction, formatting)
+• 	Day 49–51:  basics (search/replace, transformations)
+• 	Day 52–54: Combining tools ()
+• 	Day 55–57: Cron jobs & scheduling (, )
+• 	Day 58–60: Log parsing automation
+• 	Day 61–63: Mini-project → Build a log analyzer script that extracts errors and emails results.
+
+Phase 4: Advanced & DevOps-Oriented (Days 64–90)
+Goal: Storage, security, containers, and performance tuning.
+• 	Day 64–66: Disk management (, , , )
+• 	Day 67–69: File systems (ext4, xfs, btrfs basics)
+• 	Day 70–72: Swap & memory management
+• 	Day 73–75: SSH key management & SELinux/AppArmor basics
+• 	Day 76–78: Log auditing (, )
+• 	Day 79–81: Linux namespaces & cgroups (container foundations)
+• 	Day 82–84: Kernel basics & tuning ()
+• 	Day 85–87: Performance tuning (I/O, CPU, memory)
+• 	Day 88–90: Final mini-project → Set up a containerized app with resource limits using cgroups + logs monitored
